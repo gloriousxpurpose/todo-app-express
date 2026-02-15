@@ -249,10 +249,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the ISC License.
 
-## 📧 Contact
-
-For issues and questions, please open an issue on the [GitHub repository](https://github.com/lukiraki/task-pg-express/issues).
-
 ## 🙏 Acknowledgments
 
 - Express.js community
